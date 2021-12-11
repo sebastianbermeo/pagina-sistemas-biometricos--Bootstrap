@@ -1,0 +1,1 @@
+alert("La fundacion escuela tecnologica de Neiva, ha implementado una nueva forma para acceder al sistema, a continuacion encontrara un apartado para ingresar y posterior a eso tendra que realizar un reconocimiento facial OBLIGATORIO.");
